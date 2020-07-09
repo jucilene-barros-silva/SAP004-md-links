@@ -1,4 +1,33 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "bin": {
+    "md-links": "./index.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jucilene-barros-silva/SAP004-md-links.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "Jucilene Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jucilene-barros-silva/SAP004-md-links/issues"
+  },
+  "homepage": "https://github.com/jucilene-barros-silva/SAP004-md-links#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
