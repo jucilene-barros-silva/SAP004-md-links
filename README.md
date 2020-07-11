@@ -4,8 +4,8 @@
 
 * [1. Prefácio](#1-prefácio)
 * [2. Resumo da Aplicação Md-links](#2-resumo-do-projeto-aplicação-md-links)
-* [2. Instalação e uso](#3-instalação)
-* [2. Instalação e uso](#3-instalação-e-uso)
+* [3. Instalação e uso](#3-instalação)
+* [3. Instalação e uso](#3-instalação-e-uso)
 * [4. Roadmap](#4-Roadmap)
 
 ***
