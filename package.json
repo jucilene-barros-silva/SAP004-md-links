@@ -1,16 +1,16 @@
 {
   "name": "md-links",
   "version": "0.1.0",
-  "description": "## Índice",
+  "description": "Biblioteca utilizada para ler arquivo README.md e retornar os links existentes já verificados",
   "main": "index.js",
   "bin": {
-    "md-links": "./index.js"
+    "md-links": "./cli.js"
   },
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,8 @@
   "homepage": "https://github.com/jucilene-barros-silva/SAP004-md-links#readme",
   "devDependencies": {
     "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
   }
 }
