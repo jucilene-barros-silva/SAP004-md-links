@@ -80,7 +80,7 @@ mdLinks("./example.md")
     // => [{ href, text }]
   })
   .catch(console.error);
-
+```
 ## 4. Roadmap
 
 Atualmente, essa biblioteca apenas identifica os links presentes no documento Markdown. Para versões futuras, deseja-se implementar a status dos links e ler um diretório para identificar os arquivos kMarkdown.
