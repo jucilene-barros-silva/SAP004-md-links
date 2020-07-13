@@ -1,3 +1,6 @@
+const readFile = require('../src/readFile');
+const fs = require('fs');
+
 const mdLinks = require('../');
 
 

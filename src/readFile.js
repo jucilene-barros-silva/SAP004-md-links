@@ -15,12 +15,11 @@ const readFile = (path) => {
           const href = linkText[1].replace(")", "");          
           array.push({ text, href });
           });
-          console.log(array);
         resolved(array);
       }
     });
   });
 };
 
-readFile("./README.md");
+readFile("./test.md");
 //node ./src/readFile.js
