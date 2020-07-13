@@ -23,9 +23,7 @@ informação que está ali.
 
 ## 2. Resumo da Aplicação Md-links
 
-É uma biblioteca que lê arquivos em linguagem de marcação Markdown e retorna os links de URLs dos links já validados e com os seus respectivos textos,poderá ser instalada pelo terminal, possuindo a sua execução na linha de comando (CLI), pode ser importada e utilizado no código.
-
-Contém testes Jest
+É uma biblioteca que lê arquivos em linguagem de marcação Markdown e retorna os links de URLs dos links já validados e com os seus respectivos textos,poderá ser instalada pelo terminal, possuindo a sua execução na linha de comando (CLI), pode ser importada e utilizado no código. Contém teste Jest
 
 ## 3. Uso e instalação
 ## 3. Instalação e Uso
@@ -33,21 +31,13 @@ Contém testes Jest
 ```sh
 $ npm install -g jucilene-barros-silva/SAP004-md-links
 ```
-Sistemas operacionais (Linux, MacOS) podem não funcionar com o comando citado acima, então tente com:
+Sistemas operacionais Linux e MacOS podem não funcionar com o comando citado anteriormente, então tente com:
 ```sh
 $ sudo npm install -g jucilene-barros-silva/SAP004-md-links
 ```
 Caso após a utilização, se deseje retirar a biblioteca da máquina, basta digitar:
 ```sh
 $ npm uninstall -g md-links
-```
-No entanto em algumas máquinas, após a instalação, o nome da pasta raiz onde a biblioteca é salva pode se alterar. Por conta disso, caso o comando acima não funcione, recomendamos que digite:
-```sh
-$ npm list -g --depth=0
-```
-Para que todas as sub-dependências do NPM sejam exibidas, e assim você consiga encontrar a pasta onde o arquivo está instalado. E após obtê-la, basta digitar:
-```sh
-$ npm uninstall -g <nome-da-pasta>
 ```
 ### Uso
 Essa biblioteca pode ser executada diretamente do terminal ou pode ser importada para o seu código.
