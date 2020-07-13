@@ -22,4 +22,4 @@ const readFile = (path) => {
 };
 
 readFile("./test.md");
-//node ./src/readFile.js
+
