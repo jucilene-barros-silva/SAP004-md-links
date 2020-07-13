@@ -25,7 +25,7 @@ informação que está ali.
 
 É uma biblioteca que lê arquivos em linguagem de marcação Markdown e retorna os links de URLs dos links já validados e com os seus respectivos textos,poderá ser instalada pelo terminal, possuindo a sua execução na linha de comando (CLI), pode ser importada e utilizado no código. Contém teste Jest
 
-## 3. Uso e instalação
+
 ## 3. Instalação e Uso
 ### Instale e deseinstale pelo terminal
 ```sh
